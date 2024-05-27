@@ -17,4 +17,8 @@ NoSQL_analysis_starter.ipynb: Jupyter Notebook file for conducting exploratory a
 Resources/establishments.json: JSON file containing data to be imported into the MongoDB database.
 Usage
 
+### Souces 
+MongoDB Documentation
+BSC Learning Asisstant 
+UofT Bootcampspot Helpful Links 
 
